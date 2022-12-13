@@ -13,7 +13,7 @@ description:    .
                 OpenAPI version: 3.0.1
                 .
 category:       Web
-homepage:       https://openapi-generator.tech
+homepage:       https://github.com/onliner10/netatmo-api-client
 author:         Mateusz Urban
 maintainer:     mateuszurban2@gmail.com
 copyright:      2022 - Mateusz Urban
